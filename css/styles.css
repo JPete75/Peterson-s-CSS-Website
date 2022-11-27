@@ -1,0 +1,157 @@
+
+body {
+  background-color: #FEFBE7;
+  text-align: center
+}
+
+h1 {
+  color: #120078;
+  font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+
+}
+
+h2 {
+  color: #09015F;
+  font-weight: normal;
+  font-size: 2.5rem;
+  font-family: 'abril fatface', sans-serif;
+
+}
+
+h3 {
+  color: #09015F;
+  font-size: 30px;
+  font-family: 'helvetica', sans-serif;
+}
+
+.top-container {
+  background-color: #FEFBE7;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  background-color: #EEF1FF;
+  padding-bottom: 30px;
+  padding-top: 30px;
+
+}
+
+.bottom-container {
+  background-color: #F47C7C;
+  padding: 1px 0 30px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  bottom: 400px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.sun {
+position: absolute;
+left: 60px;
+top: 50px;
+}
+
+.eagle {
+  position: absolute;
+  right: 200px;
+}
+
+p {
+  font-size: 25px;
+  font-family: ariel;
+}
+
+.number {
+  font-size: 100px;
+}
+
+.skills {
+width: 50%;
+margin: auto;
+}
+
+.skill-paragraph {
+  text-align: left;
+  line-height: 1.5;
+
+}
+
+.algebra {
+  float: left;
+  margin-bottom: 30px;
+  width: 20%;
+  padding-right: 30px;
+}
+
+.web {
+  float: left;
+  width: 20%;
+  padding-right: 30px;
+
+}
+
+.h3skills {
+  text-align: left;
+}
+
+  .btn {
+  background: #6B55AE;
+  background-image: -webkit-linear-gradient(top, #6B55AE, #004182);
+  background-image: -moz-linear-gradient(top, #6B55AE, #004182);
+  background-image: -ms-linear-gradient(top, #6B55AE, #004182);
+  background-image: -o-linear-gradient(top, #6B55AE, #004182);
+  background-image: linear-gradient(to bottom, #6B55AE, #004182);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  position: relative; bottom: 15px;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+
+.company {
+  font-size: 14px;
+  color: #1B2430;
+}
+.footer-link {
+  margin: auto 5px auto 5px;
+  color: #270082;
+  font-family: 'helvetica', sans-serif;
+
+}
+
+.footer-link:hover {
+  color: #F9F9F9;
+}
+
+.return:hover {
+  color: #F9F9F9;
+}
+
+.body-contact {
+  background-color: #BBE1FA;
+}
