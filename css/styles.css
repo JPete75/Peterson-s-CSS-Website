@@ -46,13 +46,13 @@ h3 {
 
 .top-cloud {
   position: absolute;
-  right: 18.75rem;
+  right: 5rem;
   bottom: 25rem;
 }
 
 .bottom-cloud {
   position: absolute;
-  left: 18.75rem;
+  left: 10.75rem;
   bottom: 18.75rem;
 }
 
@@ -64,7 +64,7 @@ top: 3.125rem;
 
 .eagle {
   position: absolute;
-  right: 12.5rem;
+  right: 4rem;
 }
 
 p {
